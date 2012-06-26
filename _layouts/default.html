@@ -1,0 +1,86 @@
+<!doctype html>
+
+<!-- HTML5 Mobile Boilerplate -->
+<!--[if IEMobile 7]><html class="no-js iem7"><![endif]-->
+<!--[if (gt IEMobile 7)|!(IEMobile)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+
+<!-- HTML5 Boilerplate -->
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <title>{{ page.title }}</title>
+
+  <meta name="author" content="kaitlin solimine" />
+
+  <link href="" rel="canonical">
+  <link href="/humans.txt" rel="author" type="text/plain">
+
+  <!-- iOS sizing -->
+  <meta content="True" name="HandheldFriendly">
+  <meta content="320" name="MobileOptimized">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+
+  <!-- iOS icons -->
+  <link href="/images/ios-57px.png" media="screen and (resolution: 163dpi)" rel="apple-touch-icon-precomposed">
+  <link href="/images/ios-72px.png" media="screen and (resolution: 132dpi)" rel="apple-touch-icon-precomposed">
+  <link href="/images/ios-114px.png" media="screen and (resolution: 326dpi)" rel="apple-touch-icon-precomposed">
+
+  <!-- MS niceties -->
+  <meta content="on" http-equiv="cleartype">
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+
+  <!-- stylesheets -->
+  <link href="/css/screen.css" media="screen, projection" rel="stylesheet">
+  <!--[if IE 6]>
+    <link href="http://universal-ie6-css.googlecode.com/files/ie6.0.3.css" media="screen, projection" rel="stylesheet">
+  <![endif]-->
+
+  <link href='http://fonts.googleapis.com/css?family=Rosarivo' rel='stylesheet' type='text/css'>
+
+  <!-- modernizr.js in the head everything else at the end -->
+  <script src="/javascripts/modernizer-custom.min.js"></script>
+
+</head>
+<body>
+<div id="cont">
+  <header role="banner">
+    <hgroup role="navigation">
+      <ul class="links">
+        <li class="vh600"><a href="/about.html" id="about" {% if page.lnav == 'about' %}class="active"{% endif %}>writer</a></li>
+        <li class="vh600"><a href="/about.html" id="about" {% if page.lnav == 'about' %}class="active"{% endif %}>dreamer</a></li>
+        <li class="vh600"><a href="/about.html" id="about" {% if page.lnav == 'about' %}class="active"{% endif %}>about me</a></li>
+      </ul>
+    </hgroup>
+  </header>
+
+  <section role="main">
+    {{ content }}
+  </section>
+
+  <footer role="contentinfo">
+    Copyright <a href="https://twitter.com/intent/user?screen_name=letsgokato">letsgokato</a> 2012.
+  </footer>
+</div>
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32148172-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Analytics end -->
+
+</body>
+</html>

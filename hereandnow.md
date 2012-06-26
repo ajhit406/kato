@@ -6,7 +6,7 @@ lnav: hereandnow
 
 # Past Appearances
 
-<figure style="float: right;margin-left: 32px; border: 2px solid #ddd;padding: 5px;" class="vh600 clearfix">
+<figure style="float: right;margin-left: 32px;" class="vh600 clearfix">
   <img src="/images/silverlake.jpg" alt="Silverlake Jubilee Festival" style="width: 260px;" />
   <figcaption style="font-size: 12px;">Silverlake Jubilee Music Festival, May 2012.</figcaption>
 </figure>

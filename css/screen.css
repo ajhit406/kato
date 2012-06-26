@@ -174,7 +174,7 @@ input[type="submit"].btn:hover {border-color: #cccccc;}
 /* Content =================================================== */
 .content {margin: 0 auto;width: 90%;}
 
-img.logo {margin: 14px 0 8px;}
+img.logo {margin: 0 0 8px;}
 
 ul#essays {list-style: none;}
 ul#essays li {margin: 5px 0}
@@ -188,7 +188,7 @@ ul#essays li span {color: #bbb;display:inline-block;width:120px;}
 #mc_embed_signup .mc-field-group {}
 #mc_embed_signup h2 {font-size: 20px;}
 #mc_embed_signup form input {}
-#mc_embed_signup form input[type=email] {width: 240px;padding: 5px 10px;border: 2px solid #ccc;font-size: 1.2em;}
+#mc_embed_signup form input[type=email] {width: 300px;padding: 5px 10px;border: 2px solid #ccc;font-size: 1.2em;}
 #mc_embed_signup form input[type=email]:focus {border-color: #4477aa;}
 input[type=submit]#mc-embedded-subscribe {background: rgba(82, 155, 170, 0.9);color: #fff;font-weight: bold;padding:7px 12px;border: 2px solid #448899;-border-radius:2px;-moz-border-radius:2px;-webkit-border-radius:2px;}
 
@@ -198,7 +198,7 @@ footer[role="contentinfo"] {color: #ccc;font-family: 'Rosarivo', serif;font-size
 footer[role="contentinfo"] a {text-decoration: none;}
 footer[role="contentinfo"] a:hover {color: #fff;}
 [role="contentinfo"] small {display: block;margin: 0 auto 1.5em;width: 90%;}
-footer[role="contentinfo"] span#feeds {float: right;}
+footer[role="contentinfo"] span#gohome {float: right;}
 
 @media print {
   /* Print =================================================== */
@@ -247,7 +247,7 @@ footer[role="contentinfo"] span#feeds {float: right;}
   [role="navigation"] ul.links li a {padding-right:15px;color: #555}
   [role="navigation"] ul.links li a:hover {color:#000;transition: all .5s;-moz-transition: all .5s;-webkit-transition: all .5s;}
   [role="navigation"] ul.links li a.active {color: #000;}
-  section[role="main"] { margin-top: 1.5em;min-height: 400px;}
+  section[role="main"] { margin-top: 2.8em;min-height: 400px;}
   section[role="main"], footer[role="contentinfo"] {width: 65%;margin-left:25%;}
 
 }

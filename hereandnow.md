@@ -4,12 +4,16 @@ title: here and now
 lnav: hereandnow
 ---
 
-# Past Appearances
+# News
 
 <figure style="float: right;margin-left: 32px;" class="vh600 clearfix">
   <img src="/images/silverlake.jpg" alt="Silverlake Jubilee Festival" style="width: 260px;" />
   <figcaption style="font-size: 12px;">Silverlake Jubilee Music Festival, May 2012.</figcaption>
 </figure>
+
+* [Portsmouth Herald Article] ( http://www.seacoastonline.com/apps/pbcs.dll/article?AID=/20060514/NEWS/305149986), 'Fulbright Scholar Grew Up Here, but Her Second Home is China' 
+
+## Past Appearances
 
 * Bread Loaf Writers’ Conference, Middlebury University, Donald E. Axinn Scholar in Fiction, 2010.
 * Agitprop Reading Series, San Diego, CA, March 2011.
@@ -17,6 +21,6 @@ lnav: hereandnow
 * Silverlake Jubilee Music Festival, [Dirty Laundry Lit, PEN Literary Stage]( http://www.dirtylaundrylit.com/events.php#), May 2012.
 * [Dzanc Books/CNC Disquiet International Literary Program in Lisbon, Portugal]( http://disquietinternational.org/). July 1-13, 2012.
 
-## Upcoming Appearances
+### Upcoming Appearances
 
 <br clear="all" />

@@ -11,9 +11,9 @@ lnav: hereandnow
   <figcaption style="font-size: 12px;">Silverlake Jubilee Music Festival, May 2012.</figcaption>
 </figure>
 
-* [Portsmouth Herald]( http://www.seacoastonline.com/apps/pbcs.dll/article?AID=/20060514/NEWS/305149986), 'Fulbright Scholar Grew Up Here, but Her Second Home is China' 
-* [Kaitlin Solimine Wins the International Literary Award]( http://asiancha.blogspot.com/2012/03/kaitlin-solimine-wins-international.html)
-* [Kaitlin Solimine's American Nurse in Guernica](http://williamclarkassociates.blogspot.com/2012/07/read-kaitlin-solimines-american-nurse.html)
+* [Portsmouth Herald]( http://www.seacoastonline.com/apps/pbcs.dll/article?AID=/20060514/NEWS/305149986), 'Fulbright Scholar Grew Up Here, but Her Second Home is China,' May 2006 
+* [Kaitlin Solimine Wins the International Literary Award]( http://asiancha.blogspot.com/2012/03/kaitlin-solimine-wins-international.html), Asian Cha, March 2012 
+* [Kaitlin Solimine's American Nurse in Guernica](http://williamclarkassociates.blogspot.com/2012/07/read-kaitlin-solimines-american-nurse.html), William Clark Associates
 
 ## Past Appearances
 

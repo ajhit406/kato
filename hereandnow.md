@@ -11,7 +11,7 @@ lnav: hereandnow
   <figcaption style="font-size: 12px;">Silverlake Jubilee Music Festival, May 2012.</figcaption>
 </figure>
 
-* [Portsmouth Herald Article] ( http://www.seacoastonline.com/apps/pbcs.dll/article?AID=/20060514/NEWS/305149986), 'Fulbright Scholar Grew Up Here, but Her Second Home is China' 
+* [Portsmouth Herald Article]( http://www.seacoastonline.com/apps/pbcs.dll/article?AID=/20060514/NEWS/305149986), 'Fulbright Scholar Grew Up Here, but Her Second Home is China' 
 
 ## Past Appearances
 

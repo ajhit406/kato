@@ -4,7 +4,7 @@ title: here and now
 lnav: hereandnow
 ---
 
-# Appearances
+# Past Appearances
 
 <figure style="float: right;margin-left: 32px;" class="vh600 clearfix">
   <img src="/images/silverlake.jpg" alt="Silverlake Jubilee Festival" style="width: 260px;" />

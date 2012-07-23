@@ -4,7 +4,7 @@ title: here and now
 lnav: hereandnow
 ---
 
-# News
+## News
 
 <figure style="float: right;margin-left: 32px;" class="vh600 clearfix">
   <img src="/images/silverlake.jpg" alt="Silverlake Jubilee Festival" style="width: 260px;" />
@@ -21,6 +21,6 @@ lnav: hereandnow
 * Silverlake Jubilee Music Festival, [Dirty Laundry Lit, PEN Literary Stage]( http://www.dirtylaundrylit.com/events.php#), May 2012.
 * [Dzanc Books/CNC Disquiet International Literary Program in Lisbon, Portugal]( http://disquietinternational.org/). July 1-13, 2012.
 
-### Upcoming Appearances
+## Upcoming Appearances
 
 <br clear="all" />

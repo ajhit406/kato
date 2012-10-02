@@ -14,7 +14,7 @@ lnav: inotherwords
 
 An excerpt from Empire of Glass entitled 'American Nurse' in [Guernica Magazine]( http://www.guernicamag.com/fiction/american-nurse)
 
-_Flying Lessons_ in ‘[Two Thirds North]( http://www.twothirdsnorth.com/two-thirds-north-2012/),’ University of Stockholm. [Download PDF of Two Thirds North here]( http://www.twothirdsnorth.com/wp-content/uploads/2012/05/Two-Thirds-North-20123.pdf)
+_Flying Lessons_ in ‘[Two Thirds North]( http://www.twothirdsnorth.com/two-thirds-north-2012/),’ Literary Journal of the University of Stockholm. [Download PDF of Two Thirds North here]( http://www.twothirdsnorth.com/wp-content/uploads/2012/05/Two-Thirds-North-20123.pdf)
 
 _Flying Lessons_, [Glimmer Train Short Story Award for New Writers, Top 25]( http://www.glimmertrainpress.com/writer/html/finalists.asp?id=65)
 

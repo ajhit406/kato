@@ -25,6 +25,6 @@ lnav: hereandnow
 
 ## Upcoming Appearances
 
-* [Vermin on the Mount Reading Series](http://www.vermin.blogs.com/), Friday, October 19 at 7:30pm at 826LA in Echo Park
+* [Vermin on the Mount Reading Series](http://www.vermin.blogs.com/), Friday, October 19, 2012 at 7:30pm at 826LA in Echo Park
 
 <br clear="all" />

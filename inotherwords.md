@@ -12,7 +12,7 @@ lnav: inotherwords
 
 * 'If at First You Don't Conceive' in [The Hairpin](http://thehairpin.com/2012/09/if-at-first-you-dont-conceive-try-try-again-and-dont-bd-until-your-cm-is-ew)
 
-* 'American Nurse,' an excerpt from _Empire of Glass_ in [Guernica Magazine]( http://www.guernicamag.com/fiction/american-nurse)
+* 'American Nurse,' an excerpt from _Empire of Glass_, in [Guernica Magazine]( http://www.guernicamag.com/fiction/american-nurse)
 
 * _Flying Lessons_ in ‘[Two Thirds North]( http://www.twothirdsnorth.com/two-thirds-north-2012/),’ Literary Journal of the University of Stockholm. [Download PDF of Two Thirds North here]( http://www.twothirdsnorth.com/wp-content/uploads/2012/05/Two-Thirds-North-20123.pdf)
 

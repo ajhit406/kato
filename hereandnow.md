@@ -26,6 +26,6 @@ lnav: hereandnow
 ## Upcoming Appearances
 
 * [Vermin on the Mount Reading Series](http://www.vermin.blogs.com/), Friday, October 19, 2012 at 7:30pm at 826LA in Echo Park
-* [Guest Editor](http://asiancha.blogspot.co.uk/2012/09/cha-call-for-submissions-issue-20-march.html) for Cha: An Asian Literary Journal, March 2013 Issue #20
+* [Guest Editor](http://asiancha.blogspot.co.uk/2012/09/cha-call-for-submissions-issue-20-march.html) for [Cha: An Asian Literary Journal](http://www.asiancha.com/), March 2013 Issue #20
 
 <br clear="all" />

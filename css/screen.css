@@ -246,7 +246,7 @@ footer[role="contentinfo"] span#gohome {float: right;}
   [role="navigation"] ul.links li {margin: 0 0 7px;background:rgba(255,255,255,0.5)}
   [role="navigation"] ul.links li:hover {background:rgba(255,255,255,0.8);transition: all .5s;-moz-transition: all .5s;-webkit-transition: all .5s;}
   [role="navigation"] ul.links li a {padding-right:15px;color: #555}
-  [role="navigation"] ul.links li a:hover {color:#000;transition: all .5s;-moz-transition: all .5s;-webkit-transition: all .5s;}
+  [role="navigation"] ul.links li a:hover, [role="navigation"] ul.links li a.active {color:#000;transition: all .5s;-moz-transition: all .5s;-webkit-transition: all .5s;}
   [role="navigation"] ul.links li a.active {color: #000;}
   section[role="main"] { margin-top: 2.8em;min-height: 400px;}
   section[role="main"], footer[role="contentinfo"] {width: 65%;margin-left:25%;}

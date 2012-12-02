@@ -176,19 +176,22 @@ input[type="submit"].btn:hover {border-color: #cccccc;}
 
 img.logo {margin: 0 0 8px;}
 
-ul#essays {list-style: none;}
-ul#essays li {margin: 5px 0}
-ul#essays li span {color: #bbb;display:inline-block;width:120px;}
+ul.posts {list-style: none;}
+ul.posts li {margin: 5px 0}
+ul.posts li span {color: #bbb;display:inline-block;width:120px;}
 
 .kato-info {}
-.kato-info img { float: left; width: 96px; margin: 4px 16px 16px 0; }
+.kato-info img { float: left; width: 128px; margin: 4px 16px 16px 0; }
 
 .post-date { color: #ccc; }
 
-.followme { background: #f8fafe; padding: 10px; margin: 1rem -10px 1rem; }
+.followme { background: #f8fafe; padding: 7px; margin: 0 -7px 1.5rem; font-size: 1.4rem; }
 
-#share-buttons { }
+#share-buttons, #post-nav { margin: 1.5rem 0; }
 #share-buttons:after { content: "."; clear: both;}
+
+#post-nav .older { float: right; }
+#post-nav .newer { float: left; }
 
 #mc_embed_signup {padding:0 0 10px;max-width: 600px;}
 #mc_embed_signup form {padding: 20px 0 0;margin-bottom:.3333em;}

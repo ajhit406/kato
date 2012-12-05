@@ -6,6 +6,11 @@ lnav: empireofglass
 
 # Empire of Glass, The Novel
 
+<figure style="float: right;margin-left: 32px;" class="vh600 clearfix">
+  <img src="/images/WatermelonChina.jpg" alt="Kaitlin in China" style="width: 260px;" />
+  <figcaption style="font-size: 12px;">The author with her Chinese family in Beijing, 1996.</figcaption>
+</figure>
+
 Kaitlin Solimine’s debut novel, _Empire of Glass_, explores the unlikely intimacy between an elderly Chinese man and a young American woman.
 
 The man, ‘Baba,’ has experienced eighty years of China’s turbulent modern history—as child to a mother killed during the Sino-Japanese War, an artillery spotter during the Korean War, a glass grinder who unexpectedly falls in love during the Cultural Revolution, and a bystander of Beijing’s transition from a Communist capital to the economic powerhouse it is today. Despite living through dramatic historical moments, Baba defines his life by the women in it, including the American, Katie (or ‘Lao K’ as he calls her). When Baba is diagnosed with a brain tumor, Lao K attempts to write the narrative of his life before it’s too late. Yet increasingly, she cannot distinguish between fact and fiction: in writing his story, she’s both conspirator to and witness of his life's greatest regrets and triumphs.

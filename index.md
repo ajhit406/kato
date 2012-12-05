@@ -12,7 +12,7 @@ lnav: homepage
 
 <br />
 
-# News
+<b>News</b>
 
 <ul class="posts">
   {% for post in site.posts %}

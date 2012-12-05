@@ -6,7 +6,7 @@ lnav: homepage
 
 # About Kaitlin
 <div class="kato-info clearfix">
-  <img src="/images/For-Web.jpg" />
+  <img src="/images/For-Web.jpg">
   <p>Raised in New England, Kaitlin Solimine has considered China a second home for almost two decades. While majoring in East Asian Studies at Harvard University, she was a Harvard-Yenching scholar and wrote and edited <em>Let's Go: China</em> (St. Martin's Press). In 2006-2007, she was a U.S. Department of State Fulbright Creative Arts Fellow in China. She was the Donald E. Axinn Scholar in Fiction at the Bread Loaf Writers' Conference (2010) and graduated from the MFA program in writing at UC-San Diego (2011). She is the 2012 recipient of the Dzanc Books/Disquiet International Literary Program award and is represented by <a href="http://www.wmclark.com/" target="_blank">William Clark Associates</a>.</p>
 </div>
 

@@ -1,0 +1,36 @@
+---
+layout: default
+title: kaitlin solimine
+lnav: index
+---
+
+<div class="kato-info clearfix">
+  <image src="/images/Kato-ForWeb-Small.jpg" alt="logo" class="logo" />
+  <p>Raised in New England, Kaitlin Solimine has considered China a second home for almost two decades. While majoring in East Asian Studies at Harvard University, she was a Harvard-Yenching scholar and wrote and edited <em>Let's Go: China</em> (St. Martin's Press). In 2006-2007, she was a U.S. Department of State Fulbright Creative Arts Fellow in China. She was the Donald E. Axinn Scholar in Fiction at the Bread Loaf Writers' Conference (2010) and graduated from the MFA program in writing at UC-San Diego (2011). An excerpt from her first novel, Empire of Glass, won the 2012 Dzanc Books/Disquiet International Literary Program award. She is a columnist for <a href="http://www.theworldofchinese.com/magazine">The World of Chinese Magazine</a> and is represented by <a href="http://www.wmclark.com/" target="_blank">William Clark Associates</a>.</p>
+</div>
+
+<b>News</b>
+
+<ul class="posts">
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+  <form action="http://kaitlinsolimine.us5.list-manage.com/subscribe/post?u=56ce8c2a0429ded30e91b1274&amp;id=901576d8c4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+    <h2>To receive updates, please leave your email:</h2>
+    <div class="mc-field-group">
+      <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>
+      <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+    </div>
+    <div id="mce-responses" class="clear">
+      <div class="response" id="mce-error-response" style="display:none"></div>
+      <div class="response" id="mce-success-response" style="display:none"></div>
+    </div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+  </form>
+</div>
+
+<!--End mc_embed_signup-->

@@ -15,7 +15,7 @@ lnav: homepage
 # News
 
 <ul class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts[0..2] %}
   	<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 	{% endfor %}
 </ul>

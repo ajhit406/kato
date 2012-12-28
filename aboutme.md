@@ -1,7 +1,7 @@
 ---
 layout: default
 title: kaitlin solimine
-lnav: aboutme
+lnav: about
 ---
 
 # About Kaitlin

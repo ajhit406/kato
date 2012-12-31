@@ -4,7 +4,6 @@ title: kaitlin solimine
 lnav: homepage
 ---
 
-
 <div class="kato-info clearfix">
   <image src="/images/Kato-ForWeb-Small.jpg" alt="logo" class="logo" />
   <p>Raised in New England, Kaitlin Solimine has considered China a second home for almost two decades. While majoring in East Asian Studies at Harvard University, she was a Harvard-Yenching scholar and wrote and edited <em>Let's Go: China</em> (St. Martin's Press). In 2006-2007, she was a U.S. Department of State Fulbright Creative Arts Fellow in China. She was the Donald E. Axinn Scholar in Fiction at the Bread Loaf Writers' Conference (2010) and graduated from the MFA program in writing at UC-San Diego (2011). An excerpt from her first novel, Empire of Glass, won the 2012 Dzanc Books/Disquiet International Literary Program award. She is represented by <a href="http://www.wmclark.com/" target="_blank">William Clark Associates</a>.</p>
@@ -12,10 +11,10 @@ lnav: homepage
 
 <br />
 
-<b>News</b>
+## News
 
 <ul class="posts">
-  {% for post in site.posts[0..2] %}
+  {% for post in site.posts limit:3 %}
   	<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 	{% endfor %}
 </ul>

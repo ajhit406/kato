@@ -1,10 +1,10 @@
 ---
 layout: default
 title: kaitlin solimine
-lnav: archive
+lnav: News
 ---
 
-# Archive
+# News Archive
 
 <ul class="posts">
   {% for post in site.posts %}

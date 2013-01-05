@@ -1,7 +1,7 @@
 ---
 layout: default
 title: kaitlin solimine
-lnav: News
+lnav: news
 ---
 
 # News Archive

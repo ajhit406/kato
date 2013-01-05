@@ -4,11 +4,6 @@ title: interview with chinese artist chen danqing
 lnav: index
 ---
 
-<figure style="float: right;margin-left: 32px;" class="vh600 clearfix">
-  <img src="/images/chen.jpg" alt="Chen Danqing" style="width: 260px;" />
-  <figcaption style="font-size: 12px;">Chen Danqing, "Sheepherder," Tibet Series, 1980. Oil on canvas.</figcaption>
-</figure>
-
 My interview with esteemed Chinese artist Chen Danqing has been published in [The World of Chinese Magazine](http://www.theworldofchinese.com) as the cover story. I was honored to be able to speak with Chen about his famed Tibet Series as well as his relationship with China's art scene.
 
 

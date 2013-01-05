@@ -1,6 +1,6 @@
 ---
 layout: post
-title: interview with chinese artist chen danqing
+title: Interview with Chen Danqing
 lnav: index
 ---
 

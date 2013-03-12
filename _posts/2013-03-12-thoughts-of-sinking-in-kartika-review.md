@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Thoughts of Sinking' in Kartika Review
+title: Thoughts of Sinking in New Issue of Kartika Review
 lnav: index
 ---
 

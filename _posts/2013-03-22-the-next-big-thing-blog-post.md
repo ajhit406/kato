@@ -34,11 +34,14 @@ I thought I’d written a first draft prior to my entrance into my MFA program a
 
 ###Who or what inspired you to write this book?
 Living in China as a teenager in the mid-‘90s was a formative experience. I was thrown into the Chen family home and they immediately took me in as if I were truly family. I felt I owed it to them and those interested in China to write a story that explored the intersection of real and human US-China relations beyond the well-traveled tropes of politics and economics. 
-What other books would you compare this story to within your genre?
+
+###What other books would you compare this story to within your genre?
 
 This is a tough question because I don’t think there’s ever a true comparison between books; that said, some of my favorite reads include Kundera’s Immortality, Murakami’s Norwegian Wood, Iyer’s The Man Inside My Head, Petterson’s Out Stealing Horses, Ondaatje’s Coming Through Slaughter, Conrad’s Heart of Darkness, Wang Shuo’s Wild Animals, Greene’s The Lonely American, Pound’s Cathay, Lu Xun’s short stories, Pessoa’s Book of Disquiet, and Chuang Tze’s Collected Works. Now that I’m looking at it, that’s a depressingly male-centric list. Strangely, when I was younger, I read mostly female writers, like Lucy Maud Montgomery, Judy Bloom, then later, Sylvia Plath, Emily Bronte, Kate Chopin, and Virginia Woolf. Something tells me I should return to my roots.
 
 ###What else about your book might pique the reader’s interest?
 
 In the latest revision, the protagonist finds herself following her aging Chinese father back to his hometown; in doing so, she untangles her involvement in her Chinese mother’s death, a story that now involves Falun Gong and a sliding scale of ‘reality.’
+
+
 Now, I’m excited to introduce [Hope Wabuke](https://twitter.com/HopeWabuke), a friend and fellow writer whom I’m honored to follow and know! I first met Hope at Natashia Deon’s incredibly-curated Dirty Laundry Lit reading series and was instantly inspired by Hope’s story of migration, tenacity, and fittingly, hope. Hope graduated from Northwestern University and received her MFA from New York University. She’s currently revising her first three novels for publication and about to start production on her latest screenplay. In 2010 Hope’s latest piece “feels” had its New York City premiere in a mixed media collaboration at the Joyce Soho Theatre, followed by an encore performance in 2011 as part of the WhiteWave Dance Festival. I can’t wait to read more of her innovative work in coming years—she’s definitely a writer to keep on one’s radar!

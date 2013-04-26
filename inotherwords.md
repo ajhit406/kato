@@ -24,6 +24,8 @@ lnav: inotherwords
 * 'Bunking with the Enemy', forthcoming, in anthology [The Places We've Been](http://theplaces35.com/books-are-for-lovers/fiction-and-nonfiction/)
 * 'Wang Shuo's Hooligan China,' in [The Common (Amherst College)](http://www.thecommononline.org/node/1380)
 * 'Keeping the Chinese Faith in the U.S.' in [China Daily](http://usa.chinadaily.com.cn/epaper/2013-04/24/content_16444036.htm)
+* 'Elegy for a Lost Beijing,' in [The Huffington Post](http://www.huffingtonpost.com/kaitlin-solimine/beijing-china-pollution_b_2474850.html)
+* 'My Parents are NIMBYs: Why You Should Be Too' in [The Huffington Post](http://www.huffingtonpost.com/kaitlin-solimine/not-in-my-backyard_b_2641930.html)
 * 'The China Expat in Exile,' in [The World of Chinese Magazine](http://www.theworldofchinese.com/2012/09/the-china-expat-in-exile-a-response-to-the-mark-kitto-debate/)
 * 'If at First You Don't Conceive' in [The Hairpin](http://thehairpin.com/2012/09/if-at-first-you-dont-conceive-try-try-again-and-dont-bd-until-your-cm-is-ew)
 * Writer/Editor, [Let’s Go: China 2000 (St. Martin’s Press)]( http://www.goodreads.com/book/show/337060.Let_s_Go_China)

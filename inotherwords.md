@@ -19,6 +19,7 @@ lnav: inotherwords
 
 ## Non-Fiction and Essays
 
+* 'China Changes Its Tune on Shark Fin Soup,' reprinted in [China Daily](http://usa.chinadaily.com.cn/life/2013-04/26/content_16451992.htm)
 * 'Saving China' a column reporting on environmental issues in China, in [The World of Chinese Magazine](http://www.theworldofchinese.com/store/2013-issues/the-world-of-chinese-2013-issue-1-wine/)
 * 'Water for Li-Ming,' in anthology [Unsavory Elements](http://www.earnshawbooks.com/content/unsavory-elements), forthcoming US Edition (Summer 2013)
 * 'Bunking with the Enemy', forthcoming, in anthology [The Places We've Been](http://theplaces35.com/books-are-for-lovers/fiction-and-nonfiction/)

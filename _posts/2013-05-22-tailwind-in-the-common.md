@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tailwind,' a story of China's rapid changes, in The Common Magazine
+title: Tailwind in The Common Magazine
 lnav: index
 ---
 

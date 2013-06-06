@@ -11,6 +11,10 @@ The revision of my forthcoming novel _Empire of Glass_ has, much of the time, fe
 
 As such, I thought I'd share a glimpse into the rewrite, the opening of a mid-novel chapter in which the main character finds herself in a strange place, at a strange time. That place is China. That time is now.
 
+***
+
+Chapter: Teratoma
+
 In early morning’s sunlight, even China’s smallest cities have an air of glittering, golden importance. In Shangyu Station’s main square, an abandoned bag of ketchup-flavored potato chips somersaults across the soot-stained pavement. A few migrants linger beneath the appreciated shade of a sole birch tree, its trunk tattooed with the names of idle passersby:
 	_Zhang Xuli was here 8/12/12_
 	_Call Yingling for a good time!_

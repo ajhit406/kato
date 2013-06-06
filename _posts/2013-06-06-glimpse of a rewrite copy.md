@@ -13,6 +13,8 @@ As such, I thought I'd share a glimpse into the rewrite, the opening of a mid-no
 
 ***
 
+Chapter: Teratoma
+
 In early morning’s sunlight, even China’s smallest cities have an air of glittering, golden importance. In Shangyu Station’s main square, an abandoned bag of ketchup-flavored potato chips somersaults across the soot-stained pavement. A few migrants linger beneath the appreciated shade of a sole birch tree, its trunk tattooed with the names of idle passersby:
 	_Zhang Xuli was here 8/12/12_
 	_Call Yingling for a good time!_

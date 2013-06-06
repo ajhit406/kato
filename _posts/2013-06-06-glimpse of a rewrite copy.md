@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Glimpse of a Rewrite
+title: Glimpse of a Rewrite, Empire of Glass
 lnav: index
 ---
 

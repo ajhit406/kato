@@ -19,6 +19,8 @@ lnav: inotherwords
 
 ## Non-Fiction and Essays
 
+* "The Rise of the Expat-preneur," in the [Wall Street Journal]( http://blogs.wsj.com/expat/2015/03/30/the-rise-of-the-expat-preneur/)
+* "World's Largest Freshwater Turtle Nearly Extinct," in [National Geographic News]( http://news.nationalgeographic.com/news/2013/07/130703-china-yangtze-giant-softshell-turtle-animal-science/)
 * 'Tailwind,' a 'Dispatch' in [The Common (Amherst College): A Modern Sense of Place](http://www.thecommononline.org/dispatches/tailwind)
 * 'China Changes Its Tune on Shark Fin Soup,' reprinted in [China Daily](http://usa.chinadaily.com.cn/life/2013-04/26/content_16451992.htm)
 * 'Saving China' a column reporting on environmental issues in China, in [The World of Chinese Magazine](http://www.theworldofchinese.com/store/2013-issues/the-world-of-chinese-2013-issue-1-wine/)

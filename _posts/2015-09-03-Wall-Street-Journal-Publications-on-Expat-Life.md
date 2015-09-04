@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “The Rise of the Expat-preneur" in the Wall Street Journal
+title: Wall Street Journal Publications on Expat Life
 lnav: index
 ---
 

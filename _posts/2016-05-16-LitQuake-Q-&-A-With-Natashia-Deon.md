@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SF Grotto Fellowship, 2016"
+title: SF Grotto Fellowship, 2016
 lnav: index
 ---
 

@@ -1,4 +1,3 @@
-auto: true
 highlighter: pygments
 exclude:
 - README.md

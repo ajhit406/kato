@@ -1,6 +1,5 @@
 auto: true
-pygments: true
-markdown: rdiscount
+highlighter: pygments
 exclude:
 - README.md
 - Rakefile
